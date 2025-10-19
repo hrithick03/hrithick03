@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hrithick</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-- 🌱 I’m currently learning **DSA, SQL and Etc...**
+- 🌱 I’m currently learning **Data Analytics**
 - 📫 How to reach me **Hrithick0330k@gmail.com**
-- ⚡ Fun fact **More I know, more I forget...**
+- ⚡ Energy fact **The more I lose, the greater my chance to win.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
