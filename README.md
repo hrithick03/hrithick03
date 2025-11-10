@@ -63,9 +63,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrithick03&" alt="hrithick03" /></p>
 
-<h3 align="center">🍒 Pac-Man Contribution Calendar</h3>
-<p align="center">
-  <img src="https://github.com/hrithick03/hrithick03/blob/output/pacman-contribution-graph.svg" alt="Pac-Man GitHub Calendar" />
-</p>
+
 
 
