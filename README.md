@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hrithick</h1>
+<h1 align="center">Hi 👋, I'm Hrithick Venkatachalam</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
 - 🌱 I’m currently learning **Data Analytics**
